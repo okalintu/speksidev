@@ -1,0 +1,38 @@
+body
+{
+background-color:RGB(25,16,37);
+color:white;
+}
+#content
+{
+	width:800px;
+	margin-left:60px;
+}
+
+#banner
+{
+	margin-left:-20px;
+	margin-top:50px;
+}
+
+#navbar
+{
+	font-size:12px;
+	margin-top:20px;
+} 
+
+#navbar td
+{
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:22px;
+	padding-right:22px;
+	cursor:pointer;
+	cursor:hand;
+}
+
+#navbar .active
+{
+	color:RGB(84,9,84);
+}
+
