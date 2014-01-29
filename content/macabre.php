@@ -1,7 +1,7 @@
 <p>
 DANSE MACABRE johdattaa katsojan mystisten holvien, räiskyvien toiveiden ja kiellettyjen tunteiden verkkoon. Näyttämöllä nähdään teatteria, tanssia, taikuutta ja live-musiikkia. Jokainen näytös on ainutlaatuinen, sillä esitys syntyy osittain improvisaatioteatterista ja vuorovaikutuksesta katsojiin. Kuolemantanssi imee vahvimmatkin pyörteisiinsä.
 </p>
-<p>
+<p style="margin-bottom:50px;">
 Tervetuloa lumoutumaan Danse Macabresta!
 </p>
 
@@ -49,3 +49,5 @@ Tervetuloa lumoutumaan Danse Macabresta!
         <td class="kaupunki">Lappeenranta</td>  
     </tr>
 </table>
+
+<img id="front_page_feather" src="img/feather_glitter.jpg" alt="Glitter Feather">

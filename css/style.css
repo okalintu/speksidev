@@ -24,7 +24,7 @@ body
 	font-size:18px;
 	margin-top:20px;
     text-align:left;
-    margin-left:50px;
+    margin-left:70px;
 } 
 
 #navbar td
@@ -39,20 +39,35 @@ body
 
 #navbar .active
 {
-	color:RGB(84,9,84);
+	color:RGB(130,60,140);
 }
 
 #story
 {
     width:820px;
-    margin-left:65px;
+    margin-left:85px;
     margin-top:90px;
     font-size:18px;
 
 }
 
+#showtimes
+{
+    width:400px;
+    display:inline;
+    float:left;
+}
+
+#front_page_feather
+{
+    margin-top:-80px;
+    margin-left:55px;
+    display:inline;
+    float:left;
+}
+
 #showtimes td
 {
-padding-right:20px;
+    padding-right:20px;
 }
 
