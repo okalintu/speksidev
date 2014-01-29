@@ -7,26 +7,29 @@ color:white;
 {
 	width:800px;
 	margin-left:60px;
+    text-align:center;
 }
 
 #banner
 {
-	margin-left:-20px;
-	margin-top:50px;
+	/*margin-left:-20px;
+	margin-top:50px;*/
 }
 
 #navbar
 {
-	font-size:12px;
+	font-size:14px;
 	margin-top:20px;
+    margin-left:auto;
+    margin-right:auto;
 } 
 
 #navbar td
 {
 	padding-top:10px;
 	padding-bottom:10px;
-	padding-left:22px;
-	padding-right:22px;
+	padding-left:15px;
+	padding-right:15px;
 	cursor:pointer;
 	cursor:hand;
 }
@@ -36,3 +39,13 @@ color:white;
 	color:RGB(84,9,84);
 }
 
+#story
+{
+width:650px;
+text-align:left;
+margin-top:10px;
+margin-left:auto;
+margin-right:auto;
+font-size:12px;
+
+}

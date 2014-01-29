@@ -1,10 +1,10 @@
-function activate(id)
+function navclick()
 {
 	$("#navbar td").attr("class","");
-	$(id).attr("class","active")
+	$(this).attr("class","active")
 }
 
 function init()
 {
-
+	$("#navbar td").click(navclick);
 }
