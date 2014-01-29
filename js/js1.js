@@ -11,7 +11,7 @@ function activate(element)
 
 function navClick()
 {
-    console.log("click event got");
+    //console.log("click event got");
     var name=$(this).attr("id");
     activate(this);
     $.ajax({url: ("content/"+name+'.php')}).done(setStory);
@@ -36,6 +36,10 @@ function init(page)
     {
         active= $('#macabre');
     }
-    console.log(active);
+    //console.log(active);
     active.trigger('click');
+}
+function bannerClick()
+{
+    $("#macabre").trigger('click');
 }

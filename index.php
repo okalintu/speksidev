@@ -9,9 +9,9 @@
 </head>
 <body onload="init('<?php $url= explode('/',$_SERVER['REQUEST_URI']);echo($url[2])?>')">
 <div id="content">
-	<div id="banner">
-		<img id="banner_img" alt="teekkarispeksi 2014 banner" src="img/banner.png"></img>
-	</div>
+	<div id="banner" onclick="bannerClick();"> 
+       <img id="banner_img" alt="teekkarispeksi 2014 banner" src="img/banner.png"></img>
+    </div>
 
 
 	<table id="navbar">
