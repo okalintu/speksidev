@@ -5,13 +5,13 @@ function setStory(data)
 
 function activate(element)
 {
-	$("#navbar td").attr("class","");
-	$(element).attr("class","active");
+	$("#navbar td a").removeClass("active");
+	$(element).addClass("active");
 }
 
-function navClick()
+function navClick(event)
 {
-    //console.log("click event got");
+    event.preventDefault();
     var name=$(this).attr("id");
     activate(this);
     $.ajax({url: ("content/"+name+'.php')}).done(setStory);
@@ -29,7 +29,7 @@ function popfunc(event)
 
 function init(page)
 {
-	$("#navbar td").click(navClick);
+	$("#navbar td a").click(navClick);
     window.onpopstate = popfunc;       
     var active= $('#'+page);
     if (!active.toArray().length)

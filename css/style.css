@@ -29,14 +29,18 @@ body
     margin-left:70px;
 } 
 
-#navbar td
+#navbar a
 {
 	padding-top:10px;
 	padding-bottom:10px;
 	padding-left:15px;
 	padding-right:15px;
-	cursor:pointer;
-	cursor:hand;
+    color: #fff;
+    text-decoration: none;
+}
+
+#navbar a:hover {
+    color: RGB(130,60,140);
 }
 
 #navbar .active
@@ -49,13 +53,11 @@ body
     width:820px;
     margin-left:85px;
     margin-top:90px;
-    font-size:18px;
-
 }
 
 #showtimes
 {
-    width:400px;
+    width: 400px;
     display:inline;
     float:left;
 }

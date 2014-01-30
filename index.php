@@ -16,11 +16,11 @@
 
 	<table id="navbar">
 		<tr>
-			<td id="macabre">DANCE MACABRE</td>
-			<td id="hahmot" >HAHMOT</td>
-			<td id="liput">LIPUT JA ESITYSPÄIVÄT</td>
-			<td id="speksi">TEEKKARISPEKSI</td>
-			<td id="tekijat">TEKIJÄT</td>
+			<td><a id="macabre" href="macabre">DANCE MACABRE</a></td>
+			<td><a id="hahmot" href="hahmot">HAHMOT</a></td>
+			<td><a id="liput" href="liput">LIPUT JA ESITYSPÄIVÄT</a></td>
+			<td><a id="speksi" href="speksi">TEEKKARISPEKSI</a></td>
+			<td><a id="tekijat" href="tekijat">TEKIJÄT</a></td>
 		</tr>
 	</table>
 
