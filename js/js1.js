@@ -11,7 +11,7 @@ function activate(element)
 
 function navClick(event)
 {
-    if (event.which === 1 && !event.ctrlKey && !event.metaKey) {
+    if ((event.which === 1 || event.isTrigger) && !event.ctrlKey && !event.metaKey) {
         event.preventDefault();
         var name=$(this).attr("id");
         activate(this);
