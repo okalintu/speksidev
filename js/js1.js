@@ -11,11 +11,13 @@ function activate(element)
 
 function navClick(event)
 {
-    event.preventDefault();
-    var name=$(this).attr("id");
-    activate(this);
-    $.ajax({url: ("content/"+name+'.php')}).done(setStory);
-    window.history.pushState({'id':name},'Dance Macabre',name);
+    if (event.which === 1 && !event.ctrlKey && !event.metaKey) {
+        event.preventDefault();
+        var name=$(this).attr("id");
+        activate(this);
+        $.ajax({url: ("content/"+name+'.php')}).done(setStory);
+        window.history.pushState({'id':name},'Dance Macabre',name);
+    }
 }
 
 function popfunc(event)
