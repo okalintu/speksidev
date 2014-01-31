@@ -1,6 +1,11 @@
 function setStory(data)
 {
-    $('#story').html(data);
+    fade_speed = 150;
+
+    $('#story').animate({opacity: 0}, fade_speed, function() {
+        $(this).html(data);
+        $(this).animate({opacity: 1}, fade_speed);
+    });
 }
 
 function activate(element)
