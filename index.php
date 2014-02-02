@@ -20,7 +20,7 @@
 			<td><a class="inside-link" id="macabre" href="macabre">DANCE MACABRE</a></td>
 			<td><a class="inside-link" id="hahmot" href="hahmot">HAHMOT</a></td>
 			<td><a id="liput" href="http://teekkarispeksi.fi/kauppa/">LIPUT JA ESITYSPÄIVÄT</a></td>
-			<td><a class="inside-link" id="speksi" href="speksi">TEEKKARISPEKSI</a></td>
+			<td><a class="inside-link" id="speksi" href="speksi">MIKÄ SPEKSI?</a></td>
 			<td><a class="inside-link" id="tekijat" href="tekijat">TEKIJÄT</a></td>
 		</tr>
 	</table>
