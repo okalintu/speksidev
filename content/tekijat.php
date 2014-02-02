@@ -121,7 +121,6 @@
     Saana Lipasti
     Saara Hakkarainen
     Saara Matala
-    Tyko Viertiö
     Vili Nissinen
     Ville Saukko
     </div>
