@@ -3,8 +3,8 @@
 <head>
 	<meta charset="utf8">
 	<title>Teekkarispeksi 2014</title>
-    <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:100' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
 	<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
 	<script src="js/js1.js"></script>
 </head>
@@ -17,11 +17,11 @@
 
 	<table id="navbar">
 		<tr>
-			<td><a id="macabre" href="macabre">DANCE MACABRE</a></td>
-			<td><a id="hahmot" href="hahmot">HAHMOT</a></td>
-			<td><a id="liput" href="liput">LIPUT JA ESITYSPÄIVÄT</a></td>
-			<td><a id="speksi" href="speksi">TEEKKARISPEKSI</a></td>
-			<td><a id="tekijat" href="tekijat">TEKIJÄT</a></td>
+			<td><a class="inside-link" id="macabre" href="macabre">DANCE MACABRE</a></td>
+			<td><a class="inside-link" id="hahmot" href="hahmot">HAHMOT</a></td>
+			<td><a id="liput" href="http://teekkarispeksi.fi/kauppa/">LIPUT JA ESITYSPÄIVÄT</a></td>
+			<td><a class="inside-link" id="speksi" href="speksi">TEEKKARISPEKSI</a></td>
+			<td><a class="inside-link" id="tekijat" href="tekijat">TEKIJÄT</a></td>
 		</tr>
 	</table>
 

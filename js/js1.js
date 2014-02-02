@@ -36,7 +36,7 @@ function popfunc(event)
 
 function init(page)
 {
-	$("#navbar td a").click(navClick);
+	$(".inside-link").click(navClick);
     window.onpopstate = popfunc;       
     var active= $('#'+page);
     if (!active.toArray().length)
