@@ -34,10 +34,10 @@ pre
 
 #navbar
 {
-    width:900px;
+    width:850px;
 	font-size:18px;
 	margin-top:20px;
-    text-align:left;
+    text-align:center;
 } 
 #navbar, #navbar a {
     transition: all 0.1s ease-in-out;
@@ -63,8 +63,8 @@ pre
 
 #story
 {
-    width:820px;
-    margin-left:15px;
+    width:850px;
+    margin-left:40px;
     margin-top:90px;
     font-size:16px;
     line-height: 22px;
@@ -90,3 +90,29 @@ pre
     padding-right:20px;
 }
 
+.makers
+{
+    width:202px;
+    float:left;
+    display:inline;
+}
+
+.hidden
+{
+    display:none;
+}
+
+#col_container
+{
+    text-align:center;
+}
+
+.teamheader
+{
+    font-weight:bold;
+}
+
+.makers
+{
+text-align:left;
+}
