@@ -1,7 +1,9 @@
 body
 {
-    background-color:RGB(25,16,37);
-    color:RGB(245,240,245);
+    /*background-color:RGB(25,16,37);
+    color:RGB(245,240,245); leiskakuvista pöllitty*/ 
+    background-color:#1a0c1d;/*liinun antamat*/
+    color: #b8b6b6;
     text-align:center;
     font-family: "Open Sans", "Gill Sans", sans-serif;
     font-weight: 300;
@@ -14,6 +16,12 @@ body
     margin-top:40px;
     margin-bottom:40px;
     text-align:left;
+}
+
+pre
+{
+
+    font-family: "Open Sans", "Gill Sans", sans-serif;
 }
 
 #banner
