@@ -66,7 +66,7 @@
     <div id="antabus" class="pic" style="display:none">
         <img src="img/hahmot/antabus.jpg" />
         <div class="name">Antabus</div>
-        <div class="quote">"Keittoo!"</div>
+        <div class="quote">"Tää on tiukkaa settii!"</div>
     </div>
 
     <div id="succubus" class="pic" style="display:none">
