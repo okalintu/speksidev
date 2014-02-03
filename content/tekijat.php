@@ -280,7 +280,7 @@
     Tampere: Terhi Alaviitala
     Oulu: Sauli Viinamäki
     Turku: Jesse Grönlund
-    Lappeenranta:
+    Lappeenranta: Jami Kettunen
     </div>
 
 </div>
