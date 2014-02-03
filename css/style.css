@@ -75,15 +75,7 @@ pre
 {
     width: 400px;
     display:inline;
-    float:left;
-}
-
-#front_page_feather
-{
-    margin-top:-80px;
-    margin-left:55px;
-    display:inline;
-    float:left;
+    /*float:left;*/
 }
 
 #showtimes td
@@ -169,3 +161,27 @@ top:100px;
 #logot img {
 	margin: 20px 30px;
 }
+
+/* Front page background image stuff */
+/* Gave up on the body background stuff */
+/*@media all and (min-device-width: 850px) and (min-width: 1000px) and (min-height: 700px) {
+    body {
+	    background-image: url("../img/julian_front.png");
+	    background-position: right bottom;
+	    background-repeat: no-repeat;
+	    background-attachment:fixed;
+	    background-size: 50% auto;
+    }
+}*/
+
+/*@media not all and (min-device-width: 850px) and (min-width: 1000px) and (min-height: 700px) {*/
+	#bg_wrapper {
+	    width: 100%;
+	    min-height: 700px;
+	    background-image: url("../img/julian_front.png");
+	    background-position: right top;
+	    background-repeat: no-repeat;
+	    /*background-attachment:fixed;*/
+	    background-size: auto 700px;
+	}
+/*} */

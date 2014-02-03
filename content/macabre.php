@@ -1,11 +1,15 @@
 <p>
 DANSE MACABRE johdattaa katsojan mystisten holvien, räiskyvien toiveiden ja kiellettyjen tunteiden verkkoon. Näyttämöllä nähdään teatteria, tanssia, taikuutta ja live-musiikkia. Jokainen näytös on ainutlaatuinen, sillä esitys syntyy osittain improvisaatioteatterista ja vuorovaikutuksesta katsojiin. Kuolemantanssi imee vahvimmatkin pyörteisiinsä.
 </p>
+
+<div id="bg_wrapper">
+
 <p style="margin-bottom:50px;">
 Tervetuloa lumoutumaan Danse Macabresta!
 </p>
 
 <h3>Esitysajat</h3>
+
 
 <table id="showtimes">
     <?php 
@@ -35,4 +39,4 @@ Tervetuloa lumoutumaan Danse Macabresta!
     ?>
 </table>
 
-<img id="front_page_feather" src="img/feather_glitter.jpg" alt="Glitter Feather">
+</div>
