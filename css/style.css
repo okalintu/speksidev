@@ -123,3 +123,44 @@ position:absolute;
 left:100px;
 top:100px;
 }
+
+.thumb_container {
+	margin: 0 auto;
+}
+
+.thumbnail {
+	border: none;
+	margin: 0 3px;
+	height: 250px;
+	opacity:0.95;
+	filter:alpha(opacity=95); /* For IE8 and earlier */
+}
+
+.thumbnail:hover {
+	opacity:1.0;
+	filter:alpha(opacity=100); /* For IE8 and earlier */
+}
+
+.pic img {
+	/* max-height: 600px; */
+}
+
+.name {
+	font-size: 24px;
+	text-align: center;
+	margin: 5px auto;
+	text-transform: uppercase;
+}
+
+.quote {
+	width: 350px;
+	font-size: 16px;
+	text-align: center;
+	margin: 5px auto;
+	font-style: italic;
+}
+
+#gallery {
+	width: 850px;
+	margin: 100px auto;
+}
