@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Teekkarispeksi 2014</title>
 	<link rel="stylesheet" href="css/style.css" type="text/css">
-	<link rel="stylesheet" type="text/css" href="css/mockup.css">
     <link rel="stylesheet" href="fancybox/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
@@ -20,7 +19,7 @@
 
 	<table id="navbar">
 		<tr>
-			<td><a class="inside-link" id="macabre" href="macabre">DANCE MACABRE</a></td>
+			<td><a class="inside-link" id="macabre" href="macabre">DANSE MACABRE</a></td>
 			<td><a class="inside-link" id="hahmot" href="hahmot">HAHMOT</a></td>
 			<td><a id="liput" href="http://teekkarispeksi.fi/kauppa/">LIPUT JA ESITYSPÄIVÄT</a></td>
 			<td><a class="inside-link" id="speksi" href="speksi">MIKÄ SPEKSI?</a></td>
