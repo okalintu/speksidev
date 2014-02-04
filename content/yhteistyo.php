@@ -11,5 +11,5 @@ header("Content-Type: text/html; charset=utf-8");
 	<a href="fi.capgemini.com"><img src="img/logot/logo_capgemini_harmaa.png"></a>
 	<a href="http://www.dhl.fi/"><img src="img/logot/logo_dhl_harmaa.png"></a>
 	<a href="http://www.roland.fi/"><img src="img/logot/logo_roland_harmaa.png"></a>
-	<a href=""><img src="img/logot/logo_seepsula_harmaa.png"></a>
+	<a href="http://seepsula.fi/"><img src="img/logot/logo_seepsula_harmaa.png"></a>
 </div>
