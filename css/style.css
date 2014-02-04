@@ -82,12 +82,16 @@ p {
 }
 
 #ostaliput {
-    margin-left: 200px;
+    margin-left: 250px;
 }
 
 #showtimes
 {
     width: 450px;
+}
+
+#showtimes h2 {
+    margin-top: -30px;
 }
 
 #showtimes table td
