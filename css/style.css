@@ -8,6 +8,17 @@ body
     font-family: "Open Sans", "Gill Sans", sans-serif;
     font-weight: 300;
 }
+
+a
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: RGB(130,60,140);
+}
+
 #content
 {
 	width:1000px; 
@@ -23,6 +34,11 @@ pre
 {
 
     font-family: "Open Sans", "Gill Sans", sans-serif;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 #banner
@@ -50,12 +66,6 @@ pre
 	padding-bottom:10px;
 	padding-left:10px;
 	padding-right:10px;
-    color: #fff;
-    text-decoration: none;
-}
-
-#navbar a:hover {
-    color: RGB(130,60,140);
 }
 
 #navbar .active
@@ -67,19 +77,25 @@ pre
 {
     width:850px;
     margin-left:40px;
-    margin-top:90px;
+    margin-top:40px;
     font-size:16px;
     line-height: 22px;
 }
 
-#showtimes
-{
-    width: 400px;
-    display:inline;
-    /*float:left;*/
+#ostaliput {
+    margin-left: 250px;
 }
 
-#showtimes td
+#showtimes
+{
+    width: 450px;
+}
+
+#showtimes h2 {
+    margin-top: -30px;
+}
+
+#showtimes table td
 {
     padding-right:20px;
 }
@@ -175,27 +191,12 @@ top:100px;
     margin-bottom:20px;
 }
 
-#ry
-{
-    width: 200px;
-    float:right;
-    margin-top:-50px;
-    margin-right:10px;
-    margin-bottom:45px;
-}
-
-#ry a
-{
-    color: #fff;
-    text-decoration: none;
-}
-
-p
-{
-	padding-top:10px;
-	padding-bottom:10px;
-}
-
+.featherlink {
+    width: 228px;
+    height: 142px;
+    text-align: center;
+    background-image: url("../img/sulka_dark.png");
+    background
 /* Front page background image stuff */
 /* Gave up on the body background stuff */
 /*@media all and (min-device-width: 850px) and (min-width: 1000px) and (min-height: 700px) {
@@ -211,9 +212,9 @@ p
 /*@media not all and (min-device-width: 850px) and (min-width: 1000px) and (min-height: 700px) {*/
 	#bg_wrapper {
 	    width: 100%;
-	    min-height: 700px;
+	    min-height: 750px;
 	    background-image: url("../img/julian_front.png");
-	    background-position: right top;
+	    background-position: right 50px;
 	    background-repeat: no-repeat;
 	    /*background-attachment:fixed;*/
 	    background-size: auto 700px;

@@ -1,25 +1,24 @@
 <?php 
 header("Content-Type: text/html; charset=utf-8");
-?><p style="width:400px;" >Mitä speksi on?</p>
+?>
 
-<div id="ry"> 
-	<a href="http://teekkarispeksi.fi/speksi/">
-	TEEKKARISPEKSI RY:N SIVUILLE
-		<img id="feather" src="img/feather_silver.png">
-	</a>
+<p>Mitä speksi on?</p>
+
+<p id="speksiruno">
+Mistä on pienet speksit tehty?<br>
+Rakkaudesta teatteriin ja toisiin ihmisiin.<br>
+Omstarteista ja orkesterista, valonheittimistä ja vanerista.<br>
+Nohevuudesta ja nauttimisesta.<br>
+Siitä on pienet speksit tehty.<br>
+</p>
+
+<div id="ry" class="featherlink"> 
+    <a href="http://teekkarispeksi.fi/speksi/">
+TEEKKARISPEKSI&nbsp;RY:N&nbsp;SIVUILLE
+    </a>
 </div>
 
-
-<pre id="speksiruno">
-Mistä on pienet speksit tehty?
-Rakkaudesta teatteriin ja toisiin ihmisiin.
-Omstarteista ja orkesterista, valonheittimistä ja vanerista.
-Nohevuudesta ja nauttimisesta.
-Siitä on pienet speksit tehty.
-</pre>
-<br>
-<p>
-Teatteria on tehty maailman sivu, niin ammattilaisvoimin kuin harrastajien toimesta. Harva tekijäjoukko kuitenkaan suhtautuu produktioihinsa samanlaisella intohimolla, antautumisella ja rakkaudella kuin ne lukuisat opiskelijat, jotka Suomessa ja Ruotsissa tekevät tietynlaista, improvisaatioon nojaavaa musiikkiteatteria: speksiä.
+<p style:"margin-top:15px;">Teatteria on tehty maailman sivu, niin ammattilaisvoimin kuin harrastajien toimesta. Harva tekijäjoukko kuitenkaan suhtautuu produktioihinsa samanlaisella intohimolla, antautumisella ja rakkaudella kuin ne lukuisat opiskelijat, jotka Suomessa ja Ruotsissa tekevät tietynlaista, improvisaatioon nojaavaa musiikkiteatteria: speksiä.
 </p><p>
 Speksit ovat täysiverisiä koko illan musikaaleja, joissa näyttelijät, tanssijat, orkesteri ja tekniset taustajoukot loihtivat näyttämölle viihdyttävän ja vilpittömän esityksen, josta ei puutu teknistä laatua.
 </p><p>
