@@ -6,12 +6,11 @@ DANSE MACABRE johdattaa katsojan mystisten holvien, räiskyvien toiveiden ja kie
 
 <div id="bg_wrapper">
 
-<p style="margin-bottom:50px;">
+<p>
 Tervetuloa lumoutumaan Danse Macabresta!
 </p>
 
-<h3>Esitysajat</h3>
-
+<h2>Esitysajat</h2>
 
 <table id="showtimes">
     <?php 
