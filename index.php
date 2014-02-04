@@ -32,7 +32,7 @@ header("Content-Type: text/html; charset=utf-8");
 		<tr>
 			<td><a class="inside-link" id="macabre" href="macabre">DANSE MACABRE</a></td>
 			<td><a class="inside-link" id="hahmot" href="hahmot">HAHMOT</a></td>
-			<td><a id="liput" href="http://teekkarispeksi.fi/kauppa/">LIPUT JA ESITYSPÄIVÄT</a></td>
+			<td><a id="liput" href="http://teekkarispeksi.fi/kauppa/">LIPUT</a></td>
 			<td><a class="inside-link" id="speksi" href="speksi">MIKÄ SPEKSI?</a></td>
 			<td><a class="inside-link" id="tekijat" href="tekijat">TEKIJÄT</a></td>
 			<td><a class="inside-link" id="yhteistyossa" href="yhteistyossa">YHTEISTYÖSSÄ</a></td>
