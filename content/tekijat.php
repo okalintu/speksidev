@@ -182,7 +182,8 @@ header("Content-Type: text/html; charset=utf-8");
     </div>
     <div class="team" id="Rekvisiitta">
     Juha "Bube" Anttila
-    Evgenia Antonova
+	Erkki Karjalainen
+	Evgenia Antonova
     Hanna Skoglund
     Jani Kautto
     Jari Vepsäläinen
@@ -194,8 +195,7 @@ header("Content-Type: text/html; charset=utf-8");
     Saana Lipasti
     Susanna Mikkola
     Susanne Lindholm
-    Vilma Uusi-Äijö
-    </div>
+	</div>
     <div class="team" id="Näyttämömestarit">
     Henri Hyttinen
     Heta Närhi
