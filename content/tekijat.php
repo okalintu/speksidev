@@ -174,6 +174,10 @@
     Tuomas Mikkonen
     Valeryia Pulko
     </div>
+    <div class="team" id="Lavastussuunnittelu">
+    Kirsti Larja
+    Julius Kekoni
+    </div>
     <div class="team" id="Rekvisiitta">
     Juha "Bube" Anttila
     Evgenia Antonova
@@ -289,7 +293,7 @@ var column = 1;
 var teams = $('.team');
 teams.each(function(idx,item)
 {
-    if (item.id=='Sovitus' || item.id=='Maskeeraus' || item.id=='Markkinointi')
+    if (item.id=='Sovitus' || item.id=='Maskeeraus' || item.id=='Dokumentointi')
     {
         column++;
     }

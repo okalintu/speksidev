@@ -162,6 +162,28 @@ top:100px;
 	margin: 20px 30px;
 }
 
+#speksiruno
+{
+    width:600px;
+    float:left
+    
+}
+
+#ry
+{
+    width: 200px;
+    float:right;
+    margin-top:-20px;
+    margin-right:10px;
+    margin-bottom:45px;
+}
+
+#ry a
+{
+    color: #fff;
+    text-decoration: none;
+}
+
 /* Front page background image stuff */
 /* Gave up on the body background stuff */
 /*@media all and (min-device-width: 850px) and (min-width: 1000px) and (min-height: 700px) {
