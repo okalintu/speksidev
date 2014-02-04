@@ -27,7 +27,6 @@ a:hover {
     margin-top:40px;
     margin-bottom:40px;
     text-align:left;
-	font-size:16px;
 }
 
 pre
@@ -188,7 +187,7 @@ top:100px;
 {
     width:600px;
     float:left
-    margin-bottom:20px;
+    
 }
 
 .featherlink {
@@ -196,7 +195,18 @@ top:100px;
     height: 142px;
     text-align: center;
     background-image: url("../img/sulka_dark.png");
-    background
+    background-repeat: no-repeat;
+    line-height: 142px; /* trick to vertically center the text */
+}
+
+#ry
+{
+    float:right;
+    margin-top:-20px;
+    margin-right:10px;
+    margin-bottom:45px;
+}
+
 /* Front page background image stuff */
 /* Gave up on the body background stuff */
 /*@media all and (min-device-width: 850px) and (min-width: 1000px) and (min-height: 700px) {
