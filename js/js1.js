@@ -18,7 +18,7 @@ function navClick(event)
 {
     if ((event.which === 1 || event.isTrigger) && !event.ctrlKey && !event.metaKey) {
         event.preventDefault();
-        var name=$(this).attr("id");
+        var name=$(this).attr("href");
         activate(this);
         $.ajax({url: ("content/"+name+'.php')}).done(setStory);
         window.history.pushState({'id':name},'Dance Macabre',name);
