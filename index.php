@@ -1,8 +1,9 @@
-<?php 
-if(time() < 1391594400 && $_GET['cheat-timer'] != '1') {
+<?php
+session_start();
+if(time() < 1391594400 && $_SESSION['cheat-timer'] != 1) {
 	header("Location: /teaser/", 302);
 	die();
-}
+} 
 header("Content-Type: text/html; charset=utf-8");
 ?><!DOCTYPE html>
 <html>
