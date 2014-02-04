@@ -4,15 +4,21 @@ header("Content-Type: text/html; charset=utf-8");
 DANSE MACABRE johdattaa katsojan mystisten holvien, räiskyvien toiveiden ja kiellettyjen tunteiden verkkoon. Näyttämöllä nähdään teatteria, tanssia, taikuutta ja live-musiikkia. Jokainen näytös on ainutlaatuinen, sillä esitys syntyy osittain improvisaatioteatterista ja vuorovaikutuksesta katsojiin. Kuolemantanssi imee vahvimmatkin pyörteisiinsä.
 </p>
 
-<div id="bg_wrapper">
-
 <p>
 Tervetuloa lumoutumaan Danse Macabresta!
 </p>
 
+<div id="bg_wrapper">
+
+<div id="ostaliput" class="featherlink">
+    <a href="http://teekkarispeksi.fi/kauppa/">OSTA&nbsp;LIPUT</a>
+</div>
+
+<div id="showtimes">
+
 <h2>Esitysajat</h2>
 
-<table id="showtimes">
+<table>
     <?php 
     $shows = array(
         array("17.3.", "19" ,"Aleksanterin teatteri", "Helsinki"),
@@ -40,5 +46,7 @@ Tervetuloa lumoutumaan Danse Macabresta!
     }
     ?>
 </table>
+
+</div>
 
 </div>

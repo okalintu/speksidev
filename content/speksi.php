@@ -1,21 +1,23 @@
 <?php 
 header("Content-Type: text/html; charset=utf-8");
-?><p>Mitä speksi on?</p>
+?>
 
-<pre id="speksiruno">
-Mistä on pienet speksit tehty?
-Rakkaudesta teatteriin ja toisiin ihmisiin.
-Omstarteista ja orkesterista, valonheittimistä ja vanerista.
-Nohevuudesta ja nauttimisesta.
-Siitä on pienet speksit tehty.
-</pre>
-<div id="ry"> 
+<p>Mitä speksi on?</p>
+
+<p id="speksiruno">
+Mistä on pienet speksit tehty?<br>
+Rakkaudesta teatteriin ja toisiin ihmisiin.<br>
+Omstarteista ja orkesterista, valonheittimistä ja vanerista.<br>
+Nohevuudesta ja nauttimisesta.<br>
+Siitä on pienet speksit tehty.<br>
+</p>
+
+<div id="ry" class="featherlink"> 
     <a href="http://teekkarispeksi.fi/speksi/">
-TEEKKARISPEKSI RY:N SIVUILLE
-        <img id="feather" src="img/feather_silver.png">
+TEEKKARISPEKSI&nbsp;RY:N&nbsp;SIVUILLE
     </a>
 </div>
-<br>
+
 <p style:"margin-top:15px;">Teekkarispeksi on 25-vuotisen taipaleensa aikana vakiinnuttanut asemansa yhtenä Suomen suurimmista harrastajateattereista. Se on musikaalikomedia, jossa yleisön ehdotukset - omstartit - muovaavat jokaisesta näytöksestä omanlaisensa.
 </p>
 <p>
