@@ -207,6 +207,12 @@ top:100px;
     margin-bottom:45px;
 }
 
+.companies
+{
+	margin-top:50px;
+	margin-bottom:-10px;
+}
+
 /* Front page background image stuff */
 /* Gave up on the body background stuff */
 /*@media all and (min-device-width: 850px) and (min-width: 1000px) and (min-height: 700px) {
