@@ -100,9 +100,14 @@ pre
     text-align:center;
 }
 
-.teamheader
+.teamheader, h2
 {
     font-weight:bold;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .makers

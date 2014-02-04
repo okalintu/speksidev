@@ -8,4 +8,8 @@ header("Content-Type: text/html; charset=utf-8");
 	<a href="http://www.okautorent.fi/"><img src="img/logot/logo_okrent_harmaa.png"></a>
 	<a href="http://tek.fi/"><img src="img/logot/logo_tek_harmaa.png"></a>
 	<a href="http://www.yit.fi/"><img src="img/logot/logo_yit_harmaa.png"></a>
+	<a href="fi.capgemini.com"><img src="img/logot/logo_capgemini_harmaa.png"></a>
+	<a href="http://www.dhl.fi/"><img src="img/logot/logo_dhl_harmaa.png"></a>
+	<a href="http://www.roland.fi/"><img src="img/logot/logo_roland_harmaa.png"></a>
+	<a href=""><img src="img/logot/logo_seepsula_harmaa.png"></a>
 </div>

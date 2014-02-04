@@ -10,7 +10,10 @@ header("Content-Type: text/html; charset=utf-8");
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Teekkarispeksi 2014</title>
+
+	<link rel="stylesheet" href="css/reset.css" type="text/css">
 	<link rel="stylesheet" href="css/style.css" type="text/css">
+
     <link rel="stylesheet" href="fancybox/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
