@@ -1,2 +1,3 @@
 RewriteEngine on
-RewriteRule ^\w*$ index.php/?page=$1 [L]
+RewriteBase /speksidev/
+RewriteRule ^\w*$ index.php?page=$1 [L]
