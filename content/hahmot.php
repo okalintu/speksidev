@@ -1,4 +1,6 @@
-<div id="gallery">
+<?php 
+header("Content-Type: text/html; charset=utf-8");
+?><div id="gallery">
     <script type="text/javascript" src="fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
     
     <div class="thumb_container">

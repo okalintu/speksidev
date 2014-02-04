@@ -1,4 +1,6 @@
-<p>Mitä speksi on?</p>
+<?php 
+header("Content-Type: text/html; charset=utf-8");
+?><p>Mitä speksi on?</p>
 
 <pre id="speksiruno">
 Mistä on pienet speksit tehty?

@@ -1,4 +1,6 @@
-<div id="col_container">
+<?php 
+header("Content-Type: text/html; charset=utf-8");
+?><div id="col_container">
     <div id="col1" class="makers">
     </div>
     <div id="col2" class="makers">
