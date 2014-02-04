@@ -16,6 +16,7 @@ body
     margin-top:40px;
     margin-bottom:40px;
     text-align:left;
+	font-size:16px;
 }
 
 pre
@@ -171,14 +172,14 @@ top:100px;
 {
     width:600px;
     float:left
-    
+    margin-bottom:20px;
 }
 
 #ry
 {
     width: 200px;
     float:right;
-    margin-top:-20px;
+    margin-top:-50px;
     margin-right:10px;
     margin-bottom:45px;
 }
@@ -187,6 +188,12 @@ top:100px;
 {
     color: #fff;
     text-decoration: none;
+}
+
+p
+{
+	padding-top:10px;
+	padding-bottom:10px;
 }
 
 /* Front page background image stuff */
