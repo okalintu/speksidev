@@ -102,6 +102,8 @@ p {
 .makers
 {
     width:202px;
+    height:1770px;
+    text-align:left;
     float:left;
     display:inline;
 }
@@ -126,10 +128,6 @@ h2 {
     margin-bottom: 20px;
 }
 
-.makers
-{
-text-align:left;
-}
 
 #character
 {
@@ -182,6 +180,18 @@ top:100px;
 #logot img {
 	margin: 10px 30px;
 }
+
+#sponsorz img
+{
+    margin: 10px 30px;
+}
+
+#sponsorz
+{
+    margin-top:10px;
+    margin-left:20px;
+}
+
 
 #speksiruno
 {

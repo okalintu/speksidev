@@ -44,7 +44,7 @@ header("Content-Type: text/html; charset=utf-8");
     <div id="julian" class="pic" style="display:none">
         <img src="img/hahmot/julian.jpg" />
         <div class="name">Julian</div>
-        <div class="quote">"Elämä metsurina ei ollut mua varten."</div>
+        <div class="quote">"Elämä metsurina ei ollut minua varten."</div>
     </div>
 
     <div id="ylii" class="pic" style="display:none">
@@ -86,3 +86,5 @@ header("Content-Type: text/html; charset=utf-8");
 $(".thumbnail").fancybox({mouseWheel: false,fitToView: false,scrolling: "no"});
 </script>
 </div>
+<?php include('sponsorbanner.php');?>
+

@@ -28,3 +28,5 @@ Speksien tärkeimpänä täkynä on kuitenkin yleisön osallistuminen: kun omsta
 </p><p>
 Teekkarispeksi ry pyrkii myös edistämään speksin harrastamista Suomessa, ja tarjoaa jäsenilleen monenlaisia kursseja ja muita mahdollisuuksia opetella musikaaliteatterin tekemistä. Teekkarispeksin alumnitoiminta on voimissaan Speksialumni ry:n kautta.
 </p>
+<?php include('sponsorbanner.php');?>
+

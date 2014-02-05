@@ -138,6 +138,7 @@ header("Content-Type: text/html; charset=utf-8");
     Jenny Manninen
     Johannes Lehto
     Kaisla Väre
+    Krista Antila
     Laura Kainulainen
     Laura Zein
     Linda Hyrkkänen
@@ -309,3 +310,6 @@ teams.each(function(idx,item)
     }
 });
 </script>
+
+<?php include('sponsorbanner.php');?>
+
