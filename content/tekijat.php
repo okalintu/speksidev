@@ -309,3 +309,6 @@ teams.each(function(idx,item)
     }
 });
 </script>
+
+<?php include('sponsorbanner.php');?>
+

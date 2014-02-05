@@ -50,3 +50,5 @@ Tervetuloa lumoutumaan Danse Macabresta!
 </div>
 
 </div>
+<?php include('sponsorbanner.php');?>
+

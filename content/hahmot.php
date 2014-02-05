@@ -86,3 +86,5 @@ header("Content-Type: text/html; charset=utf-8");
 $(".thumbnail").fancybox({mouseWheel: false,fitToView: false,scrolling: "no"});
 </script>
 </div>
+<?php include('sponsorbanner.php');?>
+
