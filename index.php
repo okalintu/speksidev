@@ -23,6 +23,11 @@ header("Content-Type: text/html; charset=utf-8");
 	<script src="js/spark-lib.js"></script>
 	<script src="js/spark-init.js"></script>
 
+	<meta property="og:image" content="http://teekkarispeksi.fi/2014/img/facebook_preview.png" />
+	<meta property="og:title" content="Teekkarispeksi 2014: Danse Macabre" />
+	<meta property="og:url" content="http://teekkarispeksi.fi/2014/" />
+	<meta property="og:description" content="Suomen suurin opiskelijamusikaali. Liput myynnissä nyt." />
+
 </head>
 <body onload="init('<?php $url= explode('/',$_SERVER['REQUEST_URI']);echo($url[2])?>')">
 <div id="content">
