@@ -22,6 +22,8 @@ function navClick(event)
         activate(this);
         $.ajax({url: ("content/"+name+'.php')}).done(setStory);
         window.history.pushState({'id':name},'Dance Macabre',name);
+        console.log(_gaq);
+        _gaq.push(['_trackEvent', 'Speksi2014', name]);
     }
 }
 
