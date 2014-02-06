@@ -118,12 +118,19 @@ p {
     text-align:center;
 }
 
-.teamheader, h2
+.teamheader
 {
     font-weight:bold;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.makers .teamheader:first-child {
+    margin-top: 0px;
 }
 
 h2 {
+    font-weight:bold;
     margin-top: 20px;
     margin-bottom: 20px;
 }

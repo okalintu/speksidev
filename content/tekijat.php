@@ -18,296 +18,298 @@ header("Content-Type: text/html; charset=utf-8");
     Ville Saukko
     </div>
     <div class="team" id="Tuottajat">
-    Essi Puustinen
-    Iida Sormanen
+    Essi Puustinen<br>
+    Iida Sormanen<br>
     Saara Matala
     </div>
     <div class="team" id="Käsikirjoitus">
-    Saara Honkanen
+    Saara Honkanen<br>
     Vili Nissinen
     </div>
     <div class="team" id="Näyttelijät">
-    Eero Tiilikainen
-    Harri Sarsa
-    Iita Kejonen
-    Jari Vepsäläinen
-    Juha-Matti Kahilakoski
-    Kirsti Larja
-    Mika Kuokkanen
-    Mikko Laine
-    Pipsa Haavisto
-    Saara Hakkarainen
+    Eero Tiilikainen<br>
+    Harri Sarsa<br>
+    Iita Kejonen<br>
+    Jari Vepsäläinen<br>
+    Juha-Matti Kahilakoski<br>
+    Kirsti Larja<br>
+    Mika Kuokkanen<br>
+    Mikko Laine<br>
+    Pipsa Haavisto<br>
+    Saara Hakkarainen<br>
     Tuure Parkkinen
     </div>
     <div class="team" id="Tanssijat">
-    Viivi Mattila
-    Iiro Perttula
-    Oona Jalkanen
-    Pihla Melander
-    Saara Kaija
-    Sami Harju
-    Sofia Ahanen
+    Viivi Mattila<br>
+    Iiro Perttula<br>
+    Oona Jalkanen<br>
+    Pihla Melander<br>
+    Saara Kaija<br>
+    Sami Harju<br>
+    Sofia Ahanen<br>
     Venla Keskinen
     </div>
     <div class="team" id="Koreografit">
-    Anna Äimälä
-    Anna-Maria Lahesmaa-Korpinen
-    Duy Doan
-    Hanna-Mari Ikonen
-    Ilona Kuusela
-    Miia Puranen
-    Nora Wind
-    Olli Saarikivi
-    Oona Jalkanen
-    Pihla Melander
-    Sami Harju
-    Sofia Ahanen
-    Venla Keskinen
+    Anna Äimälä<br>
+    Anna-Maria Lahesmaa-Korpinen<br>
+    Duy Doan<br>
+    Hanna-Mari Ikonen<br>
+    Ilona Kuusela<br>
+    Miia Puranen<br>
+    Nora Wind<br>
+    Olli Saarikivi<br>
+    Oona Jalkanen<br>
+    Pihla Melander<br>
+    Sami Harju<br>
+    Sofia Ahanen<br>
+    Venla Keskinen<br>
     Viivi Mattila
     </div>
     <div class="team" id="Orkesteri">
-    Hannu Teittinen
-    Joppe Rauhamaa
-    Arla von Konow
-    Clemens Westrup
-    Hanna Partanen
-    Heikki Kauppinen
-    Heikki Vallinoja
-    Jaakko Kiuru
-    Joel Vuohelainen
-    Roosa Silaste
-    Saara Matala
+    Hannu Teittinen<br>
+    Joppe Rauhamaa<br>
+    Arla von Konow<br>
+    Clemens Westrup<br>
+    Hanna Partanen<br>
+    Heikki Kauppinen<br>
+    Heikki Vallinoja<br>
+    Jaakko Kiuru<br>
+    Joel Vuohelainen<br>
+    Roosa Silaste<br>
+    Saara Matala<br>
     Severi Vapalahti
     </div>
     <div class="team" id="Sovitus">
-    Marko Rintamäki
-    Aki Ali-Vehmas
-    Aku Rouhe
-    Christopher Helle
-    Hannu Teittinen
-    Heikki Vallinoja
-    Henri Pihkala
-    Iita Kejonen
-    Jaakko Kiuru
-    Joonas Vanninen
-    Joppe Rauhamaa
-    Juha Vanhalakka
-    Juuso Jaatinen
-    Minni Pirttimaa
-    Nina Forsman
-    Olli Keskinen
-    Pia Niemi
-    Roosa Silaste
-    Saara Matala
-    Severi Vapalahti
+    Marko Rintamäki<br>
+    Aki Ali-Vehmas<br>
+    Aku Rouhe<br>
+    Christopher Helle<br>
+    Hannu Teittinen<br>
+    Heikki Vallinoja<br>
+    Henri Pihkala<br>
+    Iita Kejonen<br>
+    Jaakko Kiuru<br>
+    Joonas Vanninen<br>
+    Joppe Rauhamaa<br>
+    Juha Vanhalakka<br>
+    Juuso Jaatinen<br>
+    Minni Pirttimaa<br>
+    Nina Forsman<br>
+    Olli Keskinen<br>
+    Pia Niemi<br>
+    Roosa Silaste<br>
+    Saara Matala<br>
+    Severi Vapalahti<br>
     Toni Mäkelä
     </div>
     <div class="team" id="Sanoitus">
-    Harri Sarsa
-    Heikki Moilanen
-    Aku Rouhe
-    Anna Törrönen
-    Antti Sykäri
-    Eevert Saukkokoski
-    Iita Kejonen
-    Jani Kettunen
-    Jari Vepsäläinen
-    Johannes Lehto
-    Leea Riittinen
-    Liisa Itkonen
-    Linnea Löytönen
-    Mikko Laine
-    Noora Tujunen
-    Ossi-Matti Lahtinen
-    Rosa Nylén
-    Saana Lipasti
-    Saara Hakkarainen
-    Saara Matala
-    Vili Nissinen
+    Harri Sarsa<br>
+    Heikki Moilanen<br>
+    Aku Rouhe<br>
+    Anna Törrönen<br>
+    Antti Sykäri<br>
+    Eevert Saukkokoski<br>
+    Iita Kejonen<br>
+    Jani Kettunen<br>
+    Jari Vepsäläinen<br>
+    Johannes Lehto<br>
+    Leea Riittinen<br>
+    Liisa Itkonen<br>
+    Linnea Löytönen<br>
+    Mikko Laine<br>
+    Noora Tujunen<br>
+    Ossi-Matti Lahtinen<br>
+    Rosa Nylén<br>
+    Saana Lipasti<br>
+    Saara Hakkarainen<br>
+    Saara Matala<br>
+    Vili Nissinen<br>
     Ville Saukko
     </div>
     <div class="team" id="Puvustus">
-    Riina Nieminen
-    Saara Honkanen
-    Stella Vahteristo
-    Ainotuuli Vaittinen
-    Anna Äimälä
-    Anna-Maria Lahesmaa-Korpinen
-    Erkko Eeva 
-    Jenna Kaisanlahti
-    Jenny Manninen
-    Johannes Lehto
-    Kaisla Väre
-    Krista Antila
-    Laura Kainulainen
-    Laura Zein
-    Linda Hyrkkänen
-    Linnea Löytönen
-    Marianna Mattila
-    Moona Kantele
-    Nora Wind
-    Oona Korhonen
-    Pia Niemi
-    Satu Sahlstedt
-    Sini Vehviläinen
-    Sonja Palomäki
-    Susanne Lindholm
-    Suvi Lehikoinen
-    Teresia Borgman
-    Valeryia Pulko  
+    Riina Nieminen<br>
+    Saara Honkanen<br>
+    Stella Vahteristo<br>
+    Ainotuuli Vaittinen<br>
+    Anna Äimälä<br>
+    Anna-Maria Lahesmaa-Korpinen<br>
+    Erkko Eeva <br>
+    Jenna Kaisanlahti<br>
+    Jenny Manninen<br>
+    Johannes Lehto<br>
+    Kaisla Väre<br>
+    Krista Antila<br>
+    Laura Kainulainen<br>
+    Laura Zein<br>
+    Linda Hyrkkänen<br>
+    Linnea Löytönen<br>
+    Marianna Mattila<br>
+    Moona Kantele<br>
+    Nora Wind<br>
+    Oona Korhonen<br>
+    Pia Niemi<br>
+    Satu Sahlstedt<br>
+    Sini Vehviläinen<br>
+    Sonja Palomäki<br>
+    Susanne Lindholm<br>
+    Suvi Lehikoinen<br>
+    Teresia Borgman<br>
+    Valeryia Pulko
     </div>
     <div class="team" id="Maskeeraus">
-    Tuuli Klemetti
-    Alexandra Zühlke
-    Heidi Välisalmi
-    Johanna Pennanen
-    Kaisu Palomäki
-    Oona Korhonen
+    Tuuli Klemetti<br>
+    Alexandra Zühlke<br>
+    Heidi Välisalmi<br>
+    Johanna Pennanen<br>
+    Kaisu Palomäki<br>
+    Oona Korhonen<br>
     Susanna Mikkola
     </div>
     <div class="team" id="Lavastus">
-    Sami Laakso
-    Hanna Skoglund
-    Jani Kautto
-    Jari Vepsäläinen
-    Johannes Lehto
-    Juho Leinonen
-    Matti-Pekka Laaksonen
-    Susanna Mikkola
-    Tuomas Mikkonen
+    Sami Laakso<br>
+    Hanna Skoglund<br>
+    Jani Kautto<br>
+    Jari Vepsäläinen<br>
+    Johannes Lehto<br>
+    Juho Leinonen<br>
+    Matti-Pekka Laaksonen<br>
+    Susanna Mikkola<br>
+    Tuomas Mikkonen<br>
     Valeryia Pulko
     </div>
     <div class="team" id="Lavastussuunnittelu">
-    Kirsti Larja
+    Kirsti Larja<br>
     Julius Kekoni
     </div>
     <div class="team" id="Rekvisiitta">
-    Juha "Bube" Anttila
-	Erkki Karjalainen
-	Evgenia Antonova
-    Hanna Skoglund
-    Jani Kautto
-    Jari Vepsäläinen
-    Johannes Lehto
-    Juho Leinonen
-    Kaisla Väre
-    Liisa Itkonen
-    Patrick Jensen
-    Saana Lipasti
-    Susanna Mikkola
+    Juha "Bube" Anttila<br>
+	Erkki Karjalainen<br>
+	Evgenia Antonova<br>
+    Hanna Skoglund<br>
+    Jani Kautto<br>
+    Jari Vepsäläinen<br>
+    Johannes Lehto<br>
+    Juho Leinonen<br>
+    Kaisla Väre<br>
+    Liisa Itkonen<br>
+    Patrick Jensen<br>
+    Saana Lipasti<br>
+    Susanna Mikkola<br>
     Susanne Lindholm
 	</div>
     <div class="team" id="Näyttämömestarit">
-    Henri Hyttinen
+    Henri Hyttinen<br>
     Heta Närhi
     </div>
     <div class="team" id="Valotekniikka">
-    Arttu Voutilainen
-    Oskari Akkanen
-    Pekka Lammi
-    Timo Hiekkanen
-    Torsti Larja
+    Arttu Voutilainen<br>
+    Oskari Akkanen<br>
+    Pekka Lammi<br>
+    Timo Hiekkanen<br>
+    Torsti Larja<br>
     Valtteri Martikainen
     </div>
     <div class="team" id="Äänitekniikka">
-    Jaakko Vallinoja
-    Kristian Penttinen
-    Meea Kemppainen
+    Jaakko Vallinoja<br>
+    Kristian Penttinen<br>
+    Meea Kemppainen<br>
     Veikka Kähkönen
     </div>
     <div class="team" id="AD-tiimi">
-    Liinu Kivioja
-    Heidi Välisalmi
-    Henri Pihkala
-    Ida Salonen
-    Johannes Lehto
-    Juha Anttila
+    Liinu Kivioja<br>
+    Heidi Välisalmi<br>
+    Henri Pihkala<br>
+    Ida Salonen<br>
+    Johannes Lehto<br>
+    Juha Anttila<br>
     Kia Lehti
     </div>
     <div class="team" id="Dokumentointi">
-    Henri Pihkala
-    Jarkko Lamminsalo
-    Joel Pirttimaa
-    Johannes Lehto
+    Henri Pihkala<br>
+    Jarkko Lamminsalo<br>
+    Joel Pirttimaa<br>
+    Johannes Lehto<br>
     Leea Riittinen
     </div>
     <div class="team" id="Markkinointi">
-    Meri Terho
-    Anna Nermes
-    Eeva Tervahartiala
-    Henri Hyttinen
+    Meri Terho<br>
+    Anna Nermes<br>
+    Eeva Tervahartiala<br>
+    Henri Hyttinen<br>
     Kaarlo Väisänen
     </div>
     <div class="team" id="Yrityssuhteet">
-    Oliver Kollberg
-    Aarne Leinonen
-    Essi Puustinen
-    Harri Sarsa
-    Henri Hyttinen
+    Oliver Kollberg<br>
+    Aarne Leinonen<br>
+    Essi Puustinen<br>
+    Harri Sarsa<br>
+    Henri Hyttinen<br>
     Kaarlo Väisänen
     </div>
     <div class="team" id="Lipunmyynti ja lippukauppa">
-    Aino Kuhmonen
-    Ilkka Oksanen
+    Aino Kuhmonen<br>
+    Ilkka Oksanen<br>
     Pekko Lipsanen
     </div>
     <div class="team" id="Hupitiimi">
-    Aiju Heinonen
-    Minni Pirttimaa
-    Antti Väisänen
-    Christopher Helle
-    Evgenia Antonova
-    Henri Pihkala
-    Joel Pirttimaa
-    Juha Anttila
-    Juha Lahti
-    Juho Leinonen
-    Kia Lehti
-    Luiza Sayfullina
-    Niko Ferm
-    Noora Tujunen
-    Pipsa Haavisto
-    Sami Laakso
-    Susanna Mikkola
-    Veera Narvo
+    Aiju Heinonen<br>
+    Minni Pirttimaa<br>
+    Antti Väisänen<br>
+    Christopher Helle<br>
+    Evgenia Antonova<br>
+    Henri Pihkala<br>
+    Joel Pirttimaa<br>
+    Juha Anttila<br>
+    Juha Lahti<br>
+    Juho Leinonen<br>
+    Kia Lehti<br>
+    Luiza Sayfullina<br>
+    Niko Ferm<br>
+    Noora Tujunen<br>
+    Pipsa Haavisto<br>
+    Sami Laakso<br>
+    Susanna Mikkola<br>
+    Veera Narvo<br>
     Vilma Uusi-Äijö
     </div>
     <div class="team" id="Kiertueblondit">
-    Elisa Terho
-    Aki Ali-Vehmas
-    Aleksi Rinta-Kauppila
-    Antti Heikkilä
-    Ilona Kuusela
-    Kia Lehti
-    Pia Niemi
-    Tuomas Mikkonen
+    Elisa Terho<br>
+    Aki Ali-Vehmas<br>
+    Aleksi Rinta-Kauppila<br>
+    Antti Heikkilä<br>
+    Ilona Kuusela<br>
+    Kia Lehti<br>
+    Pia Niemi<br>
+    Tuomas Mikkonen<br>
     Veera Narvo
     </div>
     <div class="team" id="Kiertuepaikkakuntien natiivit">
-    Tampere: Terhi Alaviitala
-    Oulu: Sauli Viinamäki
-    Turku: Jesse Grönlund
+    Tampere: Terhi Alaviitala<br>
+    Oulu: Sauli Viinamäki<br>
+    Turku: Jesse Grönlund<br>
     Lappeenranta: Jami Kettunen
     </div>
 
 </div>
-<script>
-var column = 1;
-var teams = $('.team');
-teams.each(function(idx,item)
-{
-    if (item.id=='Sovitus' || item.id=='Maskeeraus' || item.id=='Dokumentointi')
-    {
-        column++;
-    }
-    var col = $('#col'+column);
-    col.append('<div class="teamheader">'+item.id+'</div>');
+<script type="text/javascript">
+$(document).ready(function() {
+	var column = 1;
+	var teams = $('.team');
+	teams.each(function(idx,item)
+	{
+	    if (item.id=='Sovitus' || item.id=='Maskeeraus' || item.id=='Dokumentointi')
+	    {
+	        column++;
+	    }
+	    var col = $('#col'+column);
+	    col.append('<div class="teamheader">'+item.id+'</div>');
+	
+	    // Below line didn't work in IE8 because it replaces all whitespace with a space in innerHTML.
+	    // Workaround: I just bit the bullet and manually added <br>'s to the rows, now we can append the whole innerHTML 
+	    //var makers = item.innerHTML.split("\n");
 
-    var makers = item.innerHTML.split('\n');
-    for (var i=0;i<makers.length;i++)
-    {
-        col.append(makers[i]+'<br>')
-    }
+	    col.append(item.innerHTML);	    
+	});
 });
 </script>
 

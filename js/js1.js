@@ -21,7 +21,10 @@ function navClick(event)
         var name=$(this).attr("href");
         activate(this);
         $.ajax({url: ("content/"+name+'.php')}).done(setStory);
-        window.history.pushState({'id':name},'Dance Macabre',name);
+	// Not supported on IE8 and below, gives error
+	if (!$('html').is('.ie6, .ie7, .ie8')) {
+        	window.history.pushState({'id':name},'Dance Macabre',name);
+	}
         _gaq.push(['_trackEvent', 'Speksi2014', name]);
     }
 }
