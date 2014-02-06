@@ -30,6 +30,22 @@ Spark = function(userOptions) {
 
 	$(options.element).append(spark);	
 	
+
+	// Detecting IE
+	var oldIE;
+	if ($('html').is('.ie6, .ie7, .ie8')) {
+		oldIE = true;
+	}
+
+	function fadeIn() {
+		// No fades on old IE because of a bug in rendering png with alpha channel with css opacity
+		if (oldIE) {
+			spark.show();
+			setTimeout(onFadeOutComplete, options.duration + 2*options.fadeDuration);
+		}
+		else spark.fadeIn(options.fadeDuration, onFadeInComplete);
+	}
+
 	function onFadeInComplete() {
 		setTimeout(onDurationComplete, options.duration);
 	}
@@ -43,6 +59,6 @@ Spark = function(userOptions) {
 	}
 
 	// Autostart the cycle
-	spark.fadeIn(options.fadeDuration, onFadeInComplete);
+	fadeIn();
 	
 };
