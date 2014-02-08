@@ -50,6 +50,7 @@ header("Content-Type: text/html; charset=utf-8");
     Venla Keskinen
     </div>
     <div class="team" id="Koreografit">
+    Viivi Mattila<br>
     Anna Äimälä<br>
     Anna-Maria Lahesmaa-Korpinen<br>
     Duy Doan<br>
@@ -62,8 +63,7 @@ header("Content-Type: text/html; charset=utf-8");
     Pihla Melander<br>
     Sami Harju<br>
     Sofia Ahanen<br>
-    Venla Keskinen<br>
-    Viivi Mattila
+    Venla Keskinen
     </div>
     <div class="team" id="Orkesteri">
     Hannu Teittinen<br>
@@ -256,9 +256,11 @@ header("Content-Type: text/html; charset=utf-8");
     Minni Pirttimaa<br>
     Antti Väisänen<br>
     Christopher Helle<br>
-    Evgenia Antonova<br>
+	Evgenia Antonova<br>
+	Harri Vartiainen<br>
     Henri Pihkala<br>
-    Joel Pirttimaa<br>
+	Joel Pirttimaa<br>
+	Joonas Vanninen<br>
     Juha Anttila<br>
     Juha Lahti<br>
     Juho Leinonen<br>
@@ -266,11 +268,9 @@ header("Content-Type: text/html; charset=utf-8");
     Luiza Sayfullina<br>
     Niko Ferm<br>
     Noora Tujunen<br>
-    Pipsa Haavisto<br>
     Sami Laakso<br>
     Susanna Mikkola<br>
     Veera Narvo<br>
-    Vilma Uusi-Äijö
     </div>
     <div class="team" id="Kiertueblondit">
     Elisa Terho<br>
