@@ -40,7 +40,7 @@ header("Content-Type: text/html; charset=utf-8");
     Tuure Parkkinen
     </div>
     <div class="team" id="Tanssijat">
-    Viivi Mattila<br>
+    <span class="boss">Viivi Mattila<br></span>
     Iiro Perttula<br>
     Oona Jalkanen<br>
     Pihla Melander<br>
@@ -50,7 +50,7 @@ header("Content-Type: text/html; charset=utf-8");
     Venla Keskinen
     </div>
     <div class="team" id="Koreografit">
-    Viivi Mattila<br>
+    <span class="boss">Viivi Mattila<br></span>
     Anna Äimälä<br>
     Anna-Maria Lahesmaa-Korpinen<br>
     Duy Doan<br>
@@ -66,8 +66,8 @@ header("Content-Type: text/html; charset=utf-8");
     Venla Keskinen
     </div>
     <div class="team" id="Orkesteri">
-    Hannu Teittinen<br>
-    Joppe Rauhamaa<br>
+    <span class="boss">Hannu Teittinen<br></span>
+    <span class="boss">Joppe Rauhamaa<br></span>
     Arla von Konow<br>
     Clemens Westrup<br>
     Hanna Partanen<br>
@@ -80,7 +80,7 @@ header("Content-Type: text/html; charset=utf-8");
     Severi Vapalahti
     </div>
     <div class="team" id="Sovitus">
-    Marko Rintamäki<br>
+    <span class="boss">Marko Rintamäki<br></span>
     Aki Ali-Vehmas<br>
     Aku Rouhe<br>
     Christopher Helle<br>
@@ -103,8 +103,8 @@ header("Content-Type: text/html; charset=utf-8");
     Toni Mäkelä
     </div>
     <div class="team" id="Sanoitus">
-    Harri Sarsa<br>
-    Heikki Moilanen<br>
+    <span class="boss">Harri Sarsa<br></span>
+    <span class="boss">Heikki Moilanen<br></span>
     Aku Rouhe<br>
     Anna Törrönen<br>
     Antti Sykäri<br>
@@ -127,9 +127,9 @@ header("Content-Type: text/html; charset=utf-8");
     Ville Saukko
     </div>
     <div class="team" id="Puvustus">
-    Riina Nieminen<br>
-    Saara Honkanen<br>
-    Stella Vahteristo<br>
+    <span class="boss">Riina Nieminen<br></span>
+    <span class="boss">Saara Honkanen<br></span>
+    <span class="boss">Stella Vahteristo<br></span>
     Ainotuuli Vaittinen<br>
     Anna Äimälä<br>
     Anna-Maria Lahesmaa-Korpinen<br>
@@ -157,7 +157,7 @@ header("Content-Type: text/html; charset=utf-8");
     Valeryia Pulko
     </div>
     <div class="team" id="Maskeeraus">
-    Tuuli Klemetti<br>
+    <span class="boss">Tuuli Klemetti<br></span>
     Alexandra Zühlke<br>
     Heidi Välisalmi<br>
     Johanna Pennanen<br>
@@ -166,7 +166,7 @@ header("Content-Type: text/html; charset=utf-8");
     Susanna Mikkola
     </div>
     <div class="team" id="Lavastus">
-    Sami Laakso<br>
+    <span class="boss">Sami Laakso<br></span>
     Hanna Skoglund<br>
     Jani Kautto<br>
     Jari Vepsäläinen<br>
@@ -182,7 +182,7 @@ header("Content-Type: text/html; charset=utf-8");
     Julius Kekoni
     </div>
     <div class="team" id="Rekvisiitta">
-    Juha "Bube" Anttila<br>
+    <span class="boss">Juha "Bube" Anttila<br></span>
 	Erkki Karjalainen<br>
 	Evgenia Antonova<br>
     Hanna Skoglund<br>
@@ -202,7 +202,7 @@ header("Content-Type: text/html; charset=utf-8");
     Heta Närhi
     </div>
     <div class="team" id="Valotekniikka">
-    Arttu Voutilainen<br>
+    <span class="boss">Arttu Voutilainen<br></span>
     Oskari Akkanen<br>
     Pekka Lammi<br>
     Timo Hiekkanen<br>
@@ -210,13 +210,13 @@ header("Content-Type: text/html; charset=utf-8");
     Valtteri Martikainen
     </div>
     <div class="team" id="Äänitekniikka">
-    Jaakko Vallinoja<br>
+    <span class="boss">Jaakko Vallinoja<br></span>
     Kristian Penttinen<br>
     Meea Kemppainen<br>
     Veikka Kähkönen
     </div>
     <div class="team" id="AD-tiimi">
-    Liinu Kivioja<br>
+    <span class="boss">Liinu Kivioja<br></span>
     Heidi Välisalmi<br>
     Henri Pihkala<br>
     Ida Salonen<br>
@@ -232,14 +232,14 @@ header("Content-Type: text/html; charset=utf-8");
     Leea Riittinen
     </div>
     <div class="team" id="Markkinointi">
-    Meri Terho<br>
+    <span class="boss">Meri Terho<br></span>
     Anna Nermes<br>
     Eeva Tervahartiala<br>
     Henri Hyttinen<br>
     Kaarlo Väisänen
     </div>
     <div class="team" id="Yrityssuhteet">
-    Oliver Kollberg<br>
+    <span class="boss">Oliver Kollberg<br></span>
     Aarne Leinonen<br>
     Essi Puustinen<br>
     Harri Sarsa<br>
@@ -252,8 +252,8 @@ header("Content-Type: text/html; charset=utf-8");
     Pekko Lipsanen
     </div>
     <div class="team" id="Hupitiimi">
-    Aiju Heinonen<br>
-    Minni Pirttimaa<br>
+    <span class="boss">Aiju Heinonen<br></span>
+    <span class="boss">Minni Pirttimaa<br></span>
     Antti Väisänen<br>
     Christopher Helle<br>
 	Evgenia Antonova<br>
@@ -273,7 +273,7 @@ header("Content-Type: text/html; charset=utf-8");
     Veera Narvo<br>
     </div>
     <div class="team" id="Kiertueblondit">
-    Elisa Terho<br>
+    <span class="boss">Elisa Terho<br></span>
     Aki Ali-Vehmas<br>
     Aleksi Rinta-Kauppila<br>
     Antti Heikkilä<br>
