@@ -14,4 +14,5 @@ header("Content-Type: text/html; charset=utf-8");
 	<a href="http://www.dhl.fi/"><img src="img/logot/logo_dhl_harmaa.png"></a>
 	<a href="http://www.roland.fi/"><img src="img/logot/logo_roland_harmaa.png"></a>
 	<a href="http://www.okautorent.fi/"><img src="img/logot/logo_okrent_harmaa.png"></a>
+	<a href="http://www.tanssitarvike.fi/"><img src="img/logot/logo_stt_harmaa.png"></a>
 </div>
