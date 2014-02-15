@@ -22,7 +22,7 @@ Tervetuloa lumoutumaan Danse Macabresta!
     <?php 
     $shows = array(
         array("17.3.", "19" ,"Aleksanterin teatteri", "Helsinki"),
-        array("19.3.", "19" ,"Hällä-teatteri", "Tampere"),
+        array("19.3.", "18" ,"Hällä-teatteri", "Tampere"),
         array("21.3.", "18" ,"Pohjankartanon juhlasali", "Oulu"),
         array("23.3.", "19" ,"Aleksanterin teatteri", "Helsinki"),
         array("24.3.", "19" ,"Aleksanterin teatteri", "Helsinki"),
