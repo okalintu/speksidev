@@ -271,9 +271,10 @@ top:100px;
     border-bottom: 1px solid RGB(130,60,140);
 }
 
-.blog code {
+.blog pre {
+    display: block;
     font-style: italic;
-    margin-left: 40px;
+    padding-left: 40px;
 }
 .blog hr {
     border: 1px solid RGB(130,60,140);
