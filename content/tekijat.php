@@ -95,7 +95,7 @@ header("Content-Type: text/html; charset=utf-8");
     Juuso Jaatinen<br>
     Minni Pirttimaa<br>
     Nina Forsman<br>
-    Olli Keskinen<br>
+    Olli Erik Keskinen<br>
     Pia Niemi<br>
     Roosa Silaste<br>
     Saara Matala<br>
@@ -109,8 +109,8 @@ header("Content-Type: text/html; charset=utf-8");
     Anna Törrönen<br>
     Antti Sykäri<br>
     Eevert Saukkokoski<br>
+    Hannu Teittinen<br>
     Iita Kejonen<br>
-    Jani Kettunen<br>
     Jari Vepsäläinen<br>
     Johannes Lehto<br>
     Leea Riittinen<br>
@@ -118,11 +118,10 @@ header("Content-Type: text/html; charset=utf-8");
     Linnea Löytönen<br>
     Mikko Laine<br>
     Noora Tujunen<br>
-    Ossi-Matti Lahtinen<br>
-    Rosa Nylén<br>
     Saana Lipasti<br>
     Saara Hakkarainen<br>
     Saara Matala<br>
+    Tuure Parkkinen<br>
     Vili Nissinen<br>
     Ville Saukko
     </div>
@@ -133,7 +132,7 @@ header("Content-Type: text/html; charset=utf-8");
     Ainotuuli Vaittinen<br>
     Anna Äimälä<br>
     Anna-Maria Lahesmaa-Korpinen<br>
-    Erkko Eeva <br>
+    Eeva Erkko<br>
     Jenna Kaisanlahti<br>
     Jenny Manninen<br>
     Johannes Lehto<br>
@@ -147,6 +146,7 @@ header("Content-Type: text/html; charset=utf-8");
     Moona Kantele<br>
     Nora Wind<br>
     Oona Korhonen<br>
+    Pekka Lammi<br>
     Pia Niemi<br>
     Satu Sahlstedt<br>
     Sini Vehviläinen<br>
@@ -179,6 +179,7 @@ header("Content-Type: text/html; charset=utf-8");
     </div>
     <div class="team" id="Lavastussuunnittelu">
     Kirsti Larja<br>
+    Johannes Lehto<br>
     Julius Kekoni
     </div>
     <div class="team" id="Rekvisiitta">
@@ -188,25 +189,22 @@ header("Content-Type: text/html; charset=utf-8");
     Hanna Skoglund<br>
     Jani Kautto<br>
     Jari Vepsäläinen<br>
-    Johannes Lehto<br>
     Juho Leinonen<br>
-    Kaisla Väre<br>
     Liisa Itkonen<br>
     Patrick Jensen<br>
     Saana Lipasti<br>
-    Susanna Mikkola<br>
-    Susanne Lindholm
+    Susanna Mikkola
 	</div>
     <div class="team" id="Näyttämömestarit">
     Henri Hyttinen<br>
-    Heta Närhi
+    Heta Närhi<br>
+    Johannes Lehto
     </div>
     <div class="team" id="Valotekniikka">
     <span class="boss">Arttu Voutilainen<br></span>
-    Oskari Akkanen<br>
+    Oskari Palojärvi<br>
     Pekka Lammi<br>
     Timo Hiekkanen<br>
-    Torsti Larja<br>
     Valtteri Martikainen
     </div>
     <div class="team" id="Äänitekniikka">
@@ -229,12 +227,16 @@ header("Content-Type: text/html; charset=utf-8");
     Jarkko Lamminsalo<br>
     Joel Pirttimaa<br>
     Johannes Lehto<br>
-    Leea Riittinen
+    Julian Ebert<br>
+    Leea Riittinen<br>
+    Penna Kukkonen
     </div>
     <div class="team" id="Markkinointi">
     <span class="boss">Meri Terho<br></span>
     Anna Nermes<br>
     Eeva Tervahartiala<br>
+    Evgenia Antonova<br>
+    Harri Sarsa<br>
     Henri Hyttinen<br>
     Kaarlo Väisänen
     </div>
