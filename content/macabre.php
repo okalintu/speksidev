@@ -21,19 +21,19 @@ Tervetuloa lumoutumaan Danse Macabresta!
 <table>
     <?php 
     $shows = array(
-        array("17.3.", "19" ,"Aleksanterin teatteri", "Helsinki"),
-        array("19.3.", "18" ,"Hällä-teatteri", "Tampere"),
-        array("21.3.", "18" ,"Pohjankartanon juhlasali", "Oulu"),
-        array("23.3.", "19" ,"Aleksanterin teatteri", "Helsinki"),
-        array("24.3.", "19" ,"Aleksanterin teatteri", "Helsinki"),
-        array("25.3.", "19" ,"Aleksanterin teatteri", "Helsinki"),
-        array("28.3.", "19" ,"Louhisali", "Espoo"),
-        array("29.3.", "16" ,"Louhisali", "Espoo"),
-        array("30.3.", "16" ,"Louhisali", "Espoo"),
-        array("7.4.",  "19" ,"Aleksanterin teatteri", "Helsinki"),
-        array("8.4.",  "19" ,"Aleksanterin teatteri", "Helsinki"),
-        array("12.4.", "19" ,"Sigyn-sali", "Turku"),
-        array("14.4.", "18" ,"Kaupunginteatteri", "Lappeenranta"),
+        array("17.3.", "19" ,"Aleksanterin teatteri", "Helsinki", "https://www.facebook.com/events/411492175662901/"),
+        array("19.3.", "18" ,"Hällä-teatteri", "Tampere", "https://www.facebook.com/events/283305311819504/"),
+        array("21.3.", "18" ,"Pohjankartanon juhlasali", "Oulu", "https://www.facebook.com/events/409506519196160/"),
+        array("23.3.", "19" ,"Aleksanterin teatteri", "Helsinki", "https://www.facebook.com/events/411492175662901/"),
+        array("24.3.", "19" ,"Aleksanterin teatteri", "Helsinki", "https://www.facebook.com/events/411492175662901/"),
+        array("25.3.", "19" ,"Aleksanterin teatteri", "Helsinki", "https://www.facebook.com/events/411492175662901/"),
+        array("28.3.", "19" ,"Louhisali", "Espoo", "https://www.facebook.com/events/1392546947674354/"),
+        array("29.3.", "16" ,"Louhisali", "Espoo", "https://www.facebook.com/events/1392546947674354/"),
+        array("30.3.", "16" ,"Louhisali", "Espoo", "https://www.facebook.com/events/1392546947674354/"),
+        array("7.4.",  "19" ,"Aleksanterin teatteri", "Helsinki", "https://www.facebook.com/events/411492175662901/"),
+        array("8.4.",  "19" ,"Aleksanterin teatteri", "Helsinki", "https://www.facebook.com/events/411492175662901/"),
+        array("12.4.", "19" ,"Sigyn-sali", "Turku", "https://www.facebook.com/events/654399877956050/"),
+        array("14.4.", "18" ,"Kaupunginteatteri", "Lappeenranta", "https://www.facebook.com/events/237273236451890/"),
     );
     foreach($shows as $s) {
         echo '
@@ -41,7 +41,8 @@ Tervetuloa lumoutumaan Danse Macabresta!
             <td class="pvm">'.$s[0].'</td>
             <td class="time">'.$s[1].':00</td>
             <td class="kaupunki">'.$s[3].'</td>  
-            <td class="paikka">'.$s[2].'</td>   
+            <td class="paikka">'.$s[2].'</td>
+            <td class="ficon"><a href="'.$s[4].'"><img src="img/ficon.png"></a></td>  
         </tr>';
     }
     ?>
